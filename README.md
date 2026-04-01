@@ -16,10 +16,13 @@ Before running the application, ensure you have Python installed on your system.
    https://github.com/csaeid/System-Resource-Monitor.git
 
 2. Navigate to the project directory:
-```cd SystemResourceMonitor```
+   ```bash
+cd SystemResourceMonitor```
 
 3. Install the required dependencies:
-```pip install psutil```
+   ```bash
+pip install psutil```
 
 4. Run the main script:
-```python main.py```
+   ```bash
+python main.py```
