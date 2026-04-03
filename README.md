@@ -13,12 +13,12 @@ Before running the application, ensure you have Python installed on your system.
 ## ⭐ How to Run
 1. Clone this repository to your local machine:
    ```bash
-   https://github.com/csaeid/System-Resource-Monitor.git
+   git clone https://github.com/csaeid/System-Resource-Monitor.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd SystemResourceMonitor
+   cd System-Resource-Monitor
    ```
 
 4. Install the required dependencies:   
