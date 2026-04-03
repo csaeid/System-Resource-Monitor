@@ -57,7 +57,7 @@ while True:
 │  💻 OS  : {os_data['system']} {os_data['release']} ({os_data['architecture']})
 │  🏷️ Node: {os_data['node']}
 │  ⚙️ CPU : {os_data['processor']}
-│  🖥️ CPU İstifadəsi : {cpu_data}%
+│  🖥️ CPU : {cpu_data}%
 ╰──────────────────────────────────────────
 If you want to stop the program, press Ctrl + C
 """.strip('\n').split('\n')
